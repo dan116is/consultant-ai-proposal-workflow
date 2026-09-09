@@ -3,7 +3,7 @@
 **SKU:** `consultant-ai-proposal-workflow`
 **Price:** $29 USD, USDC on Base
 **Who:** Independent consultant writing short proposals who may use AI drafting tools
-**Not:** A substitute for your judgment, a set-and-forget AI agency, or legal advice
+**Not:** A substitute for your judgment, a "set and forget AI agency," or legal advice
 
 **HUMAN REVIEW REQUIRED.** Anything AI drafts must be checked by you before it reaches a client. You own the words.
 
@@ -23,19 +23,20 @@ Body: tx hash + Base explorer link + the wallet you sent from.
 
 (c) 2026. Original English. Not legal advice. No outcome guarantees.
 
+
 ---
 
 ## What you are buying
 
-A workflow: discovery notes to AI-assisted draft prompts to human edit checklist to send to follow-up. Includes a 1-page proposal outline and red-flag list. Blank pricing — no invented close rates.
+A **workflow**: discovery notes → AI-assisted draft prompts → human edit checklist → send → follow-up. Includes a 1-page proposal outline and red-flag list. Blank pricing — no invented close rates.
 
 ## What this is not
 
 - Not a promise AI writes better proposals than you.
 - Not permission to invent case studies or metrics.
-- Not legal advice on AI disclosure — decide your own disclosure line.
+- Not legal advice on AI disclosure in your jurisdiction — decide your own disclosure line.
 
-## Workflow (60-90 minutes)
+## Workflow (60–90 minutes)
 
 1. Fill discovery notes (human).
 2. Run draft prompt (optional AI).
@@ -61,14 +62,14 @@ Write a one-page consulting proposal from discovery notes below.
 Do not invent metrics, logos, or case results.
 Use sections: Situation, Proposed work, Scope options (3 blanks for fees), Assumptions, Next step.
 Tone: plain, specific. Notes:
-{{paste_notes}}
+{paste_notes}
 ```
 
 ## Human edit checklist (mandatory)
 
 - [ ] Every number is one you can defend
 - [ ] No fake client names or results
-- [ ] Scope options have your fees, not the model's guess
+- [ ] Scope options have **your** fees, not the model's guess
 - [ ] Assumptions match the call
 - [ ] You would sign this as yourself
 - [ ] Disclosure line if you choose to say AI helped draft
@@ -97,7 +98,7 @@ Day 2, Day 5 last. Then stop.
 
 ## Red flags
 
-Unpaid strategy as discovery. Unlimited stakeholders. Asking you to invent past ROI.
+Unpaid strategy as "discovery." Unlimited stakeholders. Asking you to invent past ROI.
 
 ## License
 
